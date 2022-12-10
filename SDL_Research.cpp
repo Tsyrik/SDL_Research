@@ -1,5 +1,8 @@
 /*
 https://lazyfoo.net/tutorials/SDL/index.php
+
+Based on lessons on habr.com
+https://habr.com/ru/post/453700/
 */
 
 //Lesson 1
@@ -755,6 +758,7 @@ int main(int arhc, char** argv)
 */
 
 //Lesson 7
+/*
 #include <SDL.h>
 #include <SDL_image.h>
 #include <iostream>
@@ -856,3 +860,5 @@ int main(int arhc, char** argv)
 	quit();
 	return 0;
 }
+*/
+
